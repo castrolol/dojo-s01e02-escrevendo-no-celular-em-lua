@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/castrolol/dojo-s01e02-escrevendo-no-celular-em-lua.svg)](https://travis-ci.org/castrolol/dojo-s01e02-escrevendo-no-celular-em-lua)
 # # Dojo DevMT S01E02 
 
 # Versão em LUA
