@@ -15,7 +15,7 @@ no windows:
  * [Instalar o Lua](https://code.google.com/p/luaforwindows/downloads/list)
  * [Instalar o LuaRocks (Gerenciador de Pacotes)](https://github.com/keplerproject/luarocks/wiki/Installation-instructions-for-Windows)
 
-### Instalando o Busted (framework de TDD)
+### Instalando o Busted (framework de Testes)
 
 ```shell
 luarocks install busted
