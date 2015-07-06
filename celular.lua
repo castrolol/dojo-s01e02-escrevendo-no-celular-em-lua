@@ -1,4 +1,4 @@
-local _ = require "underscore";
+
 local celular = {}
 
 local mapping = {
